@@ -1,2 +1,3 @@
 # first-repo
-This is first repository
+This is first repository. 
+Author - Shashi Kant
