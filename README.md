@@ -1,4 +1,4 @@
 # first-repo
 This is first repository.
 <br>
-Author - Shashi Kant
+Author - Shashi Kant Garkoti
